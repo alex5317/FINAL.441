@@ -4,7 +4,7 @@ Title: Some tools used in FALL quarter.
 Version: 0.1.0
 Author: Alexander Ramos
 Maintainer: The package maintainer <alexdramos@g.ucla.edu>
-Description: To satisfy the purpose of this assignment, I focus on just following the flow chart of the process to upload the package to GitHub repository. 
+Description: To satisfy the purpose of this assignment, I focus on just following the flow chart of the process to upload the package to GitHub repository. The repository contains 5 functions: 1) MyName is 2) Get time-series data for WTI, crude oil 3) Get data from FRED about GDP and natural unemployment rate 4) Get Current COVID data 5) Check if the time series is stationary by ADF test. 
 License: MIT
 Encoding: UTF-8
 LazyData: true
